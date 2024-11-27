@@ -1,0 +1,3 @@
+[submodule "projects/Cyclistic"]
+	path = projects/Cyclistic
+	url = https://github.com/CarlosCandamil/Cyclistic.git
