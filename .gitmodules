@@ -3,6 +3,6 @@
 	url = https://github.com/CarlosCandamil/Cyclistic.git
 
 
-[submodule "FDD-Franchisee-OCR"]
-	path = FDD-Franchisee-OCR
+[submodule "projects/FDD-Franchisee-OCR"]
+	path = projects/FDD-Franchisee-OCR
 	url = https://github.com/CarlosCandamil/FDD-Franchisee-OCR.git
