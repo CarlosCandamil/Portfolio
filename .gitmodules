@@ -3,6 +3,3 @@
 	url = https://github.com/CarlosCandamil/Cyclistic.git
 
 
-[submodule "FDD-OCR"]
-	path = FDD-OCR
-	url = https://github.com/CarlosCandamil/FDD-OCR.git
