@@ -1,58 +1,11 @@
-# Portfolio
-Projects
-Purpose
-Technologies/tools
-PLAN 
-SIMPL (OCR)
-Find Leads
-Python, Regex, 
--Business case needs 
--questions
--data source
-- EDA
-- Data cleaning
--Regex, OCR, 
-UNNAMED PROJECT 
-Fun/training 
-Excel, PowerBI, Postgres
-- Business case needs 
-- Questions.
-- EDA
-- Data cleaning.
-- DAX
-- Dashboard 
-- Database design
-Waze
-Data Analytics Course Project
-Python, Jupiter NB, Machine Learning, 
--Business case needs
--questions 
--EDA
--data cleaning
--Feature selection 
--Feature engineering
--Model selection 
--Model testing
-Cyclists
-Data Analytics Course Project
-Python, SQL, Tableau. 
--Business case needs 
--Questions 
--EDA
-- Feature Engineering 
-- Visualizations 
+# Portfolio Projects
 
+## Projects Overview
 
-TITANIC (Kaggle) 
-Fun/training 
-Python, Machine Learning, Jupiter NB.  
--Business case needs 
--Questions
--EDA 
--Feature selection 
-- Feature engineering
--Model selection 
--Model testing
-
-
-
+| **Project**          | **Purpose**                    | **Technologies/Tools**               | **Plan**                                                                                   |
+|-----------------------|--------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------|
+| **SIMPL (OCR)**       | Find Leads                    | Python, Regex                        | - Business case needs  <br> - Questions  <br> - Data source  <br> - EDA  <br> - Data cleaning <br> - Regex, OCR  |
+| **UNNAMED PROJECT**   | Fun/Training                  | Excel, PowerBI, Postgres             | - Business case needs  <br> - Questions  <br> - EDA  <br> - Data cleaning  <br> - DAX  <br> - Dashboard  <br> - Database design |
+| **Waze**              | Data Analytics Course Project | Python, Jupyter Notebook, Machine Learning | - Business case needs  <br> - Questions  <br> - EDA  <br> - Data cleaning  <br> - Feature selection <br> - Feature engineering <br> - Model selection <br> - Model testing |
+| **Cyclists**          | Data Analytics Course Project | Python, SQL, Tableau                | - Business case needs  <br> - Questions  <br> - EDA  <br> - Feature engineering  <br> - Visualizations |
+| **TITANIC (Kaggle)**  | Fun/Training                  | Python, Machine Learning, Jupyter Notebook | - Business case needs  <br> - Questions  <br> - EDA  <br> - Feature selection  <br> - Feature engineering <br> - Model selection <br> - Model testing |
