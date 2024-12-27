@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
-  {%- include head.html -%}
+  <head>
+    <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+    {%- include head.html -%}
+  </head>
 
   <body>
 
