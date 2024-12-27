@@ -6,3 +6,6 @@
 [submodule "projects/FDD-OCR"]
 	path = projects/FDD-OCR
 	url = https://github.com/CarlosCandamil/FDD-OCR.git
+[submodule "Titanic-Kaggle"]
+	path = Titanic-Kaggle
+	url = https://github.com/CarlosCandamil/Titanic-Kaggle.git
