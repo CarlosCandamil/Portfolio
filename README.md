@@ -1,7 +1,3 @@
----
-layout: base
-title: Carlos Candamil Portfolio
----
 # Portfolio Projects
 
 ## Projects Overview
