@@ -1,4 +1,5 @@
 title: Carlos Candamil Data Analyst Portfolio 
 theme: minima
+layout: base
 include: [assets]
 
