@@ -5,3 +5,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: #3d821f; /* Replace with your desired color */
 }
+a {
+    color: #3d821f; /* Regular link color */
+    text-decoration: none; /* Optional: Removes underline */
+}
+
+a:hover {
+    color: #3d821f; /* Color on hover */
+}
