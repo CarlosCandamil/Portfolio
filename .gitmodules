@@ -6,3 +6,6 @@
 [submodule "projects/FDD-OCR"]
 	path = projects/FDD-OCR
 	url = https://github.com/CarlosCandamil/FDD-OCR.git
+[submodule "projects/Curriculum"]
+	path = projects/Curriculum
+	url = https://github.com/CarlosCandamil/Curriculum.git
