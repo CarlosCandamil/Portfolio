@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: bas
 title: Carlos Candamil Portfolio
 ---
 # Portfolio Projects
