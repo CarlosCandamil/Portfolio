@@ -1,0 +1,6 @@
+title: Carlos Candamil Portfolio
+description: A simple portfolio showcasing my data analysis projects
+theme: minima
+plugins:
+  - jekyll-relative-links
+markdown: kramdown
