@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
+# Business Analyst Portfolio
 Hi, I’m Carlos Candamil, a Data Analyst. Below are some of my projects:
 
 ## Projects
