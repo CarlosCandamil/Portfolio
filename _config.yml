@@ -1,5 +1,5 @@
 title: Carlos Candamil Portfolio
-description: A simple portfolio showcasing my data analysis projects
+description: Portfolio showcasing my data analysis projects
 theme: minima
 plugins:
   - jekyll-relative-links
