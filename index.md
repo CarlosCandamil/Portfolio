@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Casa
 ---
 
 # Business Analyst Portfolio
