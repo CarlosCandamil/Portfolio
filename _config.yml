@@ -4,3 +4,9 @@ theme: minima
 plugins:
   - jekyll-relative-links
 markdown: kramdown
+header_pages:
+  - projects/Cyclistic
+  - projects/FDD-OCR
+  - projects/Curriculum
+  - projects/House_Prices
+  - projects/Titanic-Kaggle
