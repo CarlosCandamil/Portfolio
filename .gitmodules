@@ -10,3 +10,6 @@
 [submodule "projects/House_Prices"]
 	path = projects/House_Prices
 	url = https://github.com/CarlosCandamil/House_Prices
+[submodule "projects/Titanic-Kaggle"]
+	path = projects/Titanic-Kaggle
+	url = https://github.com/CarlosCandamil/Titanic-Kaggle.git
