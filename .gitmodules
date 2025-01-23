@@ -9,3 +9,6 @@
 [submodule "projects/Curriculum"]
 	path = projects/Curriculum
 	url = https://github.com/CarlosCandamil/Curriculum.git
+[submodule "projects/House_Prices"]
+	path = projects/House_Prices
+	url = https://github.com/CarlosCandamil/House_Prices
