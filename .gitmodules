@@ -1,8 +1,6 @@
 [submodule "projects/Cyclistic"]
 	path = projects/Cyclistic
 	url = https://github.com/CarlosCandamil/Cyclistic.git
-
-
 [submodule "projects/FDD-OCR"]
 	path = projects/FDD-OCR
 	url = https://github.com/CarlosCandamil/FDD-OCR.git
