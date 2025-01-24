@@ -1,10 +1,8 @@
 title: Carlos Candamil Data Analyst Portfolio
 description: 📊 or what
 theme: minima
+custom_css: assets/style.css
 plugins:
   - jekyll-relative-links
 markdown: kramdown
-sass:
-  load_paths:
-    - assets/style.css
 
