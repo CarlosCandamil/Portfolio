@@ -4,4 +4,7 @@ theme: minima
 plugins:
   - jekyll-relative-links
 markdown: kramdown
+sass:
+  load_paths:
+    - assets/css
 
