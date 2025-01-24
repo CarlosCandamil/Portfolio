@@ -1,5 +1,5 @@
-title: Carlos Candamil Data Analyst Portfolio
-theme: minimal
+title: Carlos Candamil - Data Analyst Portfolio
+theme: minima
 custom_css: assets/style.css
 plugins:
   - jekyll-relative-links
