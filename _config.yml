@@ -4,5 +4,4 @@ theme: minima
 plugins:
   - jekyll-relative-links
 markdown: kramdown
-header_pages:
-  - projects
+
