@@ -1,6 +1,6 @@
 title: Carlos Candamil - Data Analyst Portfolio
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-relative-links
+- jekyll-remote-theme
 markdown: kramdown
 
