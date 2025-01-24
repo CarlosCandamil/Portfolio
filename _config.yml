@@ -1,8 +1,9 @@
 title: Carlos Candamil - Data Analyst Portfolio
 remote_theme: minima
+minima:
+  skin: auto 
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
-minima:
-  skin: dark
+
 
