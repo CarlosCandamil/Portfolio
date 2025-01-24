@@ -3,4 +3,6 @@ remote_theme: minima
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
+minima:
+  skin: dark
 
