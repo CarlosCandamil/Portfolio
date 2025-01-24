@@ -1,5 +1,6 @@
 ---
-layout: base
+layout: default
+title: portfolio
 ---
 
 # Portfolio
