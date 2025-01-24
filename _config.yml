@@ -6,5 +6,5 @@ plugins:
 markdown: kramdown
 sass:
   load_paths:
-    - assets/css
+    - assets/style.css
 
