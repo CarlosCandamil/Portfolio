@@ -3,5 +3,5 @@ remote_theme: minima
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
-
-
+header_pages:
+  - index.md
