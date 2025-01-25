@@ -2,11 +2,6 @@ title: Carlos Candamil - Data Analyst Portfolio
 remote_theme: minima
 header_pages:
   - index.md
-  - projects/Cyclistic/README.md
-  - projects/FDD-OCR/README.md
-  - projects/Curriculum/README.md
-  - projects/House_Prices/README.md
-  - projects/Titanic-Kaggle/README.md
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
