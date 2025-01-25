@@ -5,3 +5,8 @@ plugins:
 markdown: kramdown
 header_pages:
   - index.md
+  - projects/Cyclistic/README.md
+  - projects/FDD-OCR/README.md
+  - projects/Curriculum/README.md
+  - projects/House_Prices/README.md
+  - projects/Titanic-Kaggle/README.md
