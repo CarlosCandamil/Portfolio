@@ -5,6 +5,7 @@ plugins:
 markdown: kramdown
 header_pages:
   - index.md
+  - linkedin.md
   - projects/Curriculum/README.md
 
 minima:
