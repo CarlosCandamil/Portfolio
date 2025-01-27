@@ -5,8 +5,10 @@ plugins:
 markdown: kramdown
 header_pages:
   - index.md
-  - linkedin.md
   - projects/Curriculum/README.md
+links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/your-profile/"
 
 minima:
   skin: auto
