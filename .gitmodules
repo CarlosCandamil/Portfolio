@@ -1,6 +1,3 @@
-[submodule "projects/Titanic-Kaggle."]
-	path = projects/Titanic-Kaggle.
-	url = https://github.com/CarlosCandamil/Titanic-Kaggle
 [submodule "projects/Cyclistic"]
 	path = projects/Cyclistic
 	url = https://github.com/CarlosCandamil/Cyclistic
