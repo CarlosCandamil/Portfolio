@@ -1,5 +1,5 @@
 ---
 layout: default
-title: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/) 
+title: Linkedin Profile
 ---
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile/) {:target="_blank"}
+[Visit my LinkedIn Profile](https://www.linkedin.com/in/your-profile/) {:target="_blank"}
