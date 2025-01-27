@@ -1,0 +1,18 @@
+[submodule "projects/Titanic-Kaggle."]
+	path = projects/Titanic-Kaggle.
+	url = https://github.com/CarlosCandamil/Titanic-Kaggle
+[submodule "projects/Cyclistic"]
+	path = projects/Cyclistic
+	url = https://github.com/CarlosCandamil/Cyclistic
+[submodule "projects/House_Prices"]
+	path = projects/House_Prices
+	url = https://github.com/CarlosCandamil/House_Prices
+[submodule "projects/FDD-OCR"]
+	path = projects/FDD-OCR
+	url = https://github.com/CarlosCandamil/FDD-OCR
+[submodule "projects/Titanic-Kaggle"]
+	path = projects/Titanic-Kaggle
+	url = https://github.com/CarlosCandamil/Titanic-Kaggle
+[submodule "projects/Curriculum"]
+	path = projects/Curriculum
+	url = https://github.com/CarlosCandamil/Curriculum
