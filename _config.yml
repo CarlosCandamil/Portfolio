@@ -1,15 +1,11 @@
-title: CC Data Analyst Portfolio
+title: Carlos Portfolio
 theme: minima
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
 header_pages:
   - index.md
-  - projects/Cyclistic/README.md
-  - projects/FDD-OCR/README.md
   - projects/Curriculum/README.md
-  - projects/House_Prices/README.md
-  - projects/Titanic-Kaggle/README.md
 
 minima:
-  skin: dark
+  skin: auto
