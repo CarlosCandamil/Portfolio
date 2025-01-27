@@ -1,5 +1,5 @@
 title: CC Data Analyst Portfolio
-remote_theme: jekyll/minima
+theme: minima
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
