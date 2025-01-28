@@ -7,7 +7,7 @@ My name is Carlos Candamil I am a Business Analyst Skilled in utilizing tools li
 
 ## Projects
 
-| Project         | Description                          | Skills & Tools                   | ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ | GitHub Link                           |
+| Project         | Description                          | Skills & Tools                   | ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ | GitHub Link                           |
 |------------------|--------------------------------------|-----------------------------------|------------------------------------|---------------------------------------|
 | [Cyclistic](projects/Cyclistic/README.md) | An analysis of bike-share data to uncover trends and improve customer engagement. | `Python`, `Pandas`, `SQL`, `Tableau`, `EDA`, `Feature engineering`| ![Cyclistic](projects/Cyclistic/Dashboard2.png) | [View on GitHub](https://github.com/CarlosCandamil/Cyclistic) |
 | [FDD-OCR](projects/FDD-OCR/README.md)    | A solution for document OCR (Optical Character Recognition) with high accuracy. | `Python`, `OCR`, `Regex`, `pytesseract`| ![FDD-OCR](projects/FDD-OCR/Image.png) | [View on GitHub](https://github.com/CarlosCandamil/FDD-OCR) |
