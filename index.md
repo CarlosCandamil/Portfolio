@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-My name is Carlos Candamil I am a Business Analyst Skilled in utilizing tools like SQL, Python, and Excel Experienced in both business development and data analytics. contact me at CarlosCandamil@outlook.com or at [Linkedin](https://www.linkedin.com/in/carlos-candamil-14375624/)
+My name is Carlos Candamil I am a Business Analyst Skilled in utilizing tools like SQL, Python, and Excel Experienced in both business development and data analytics. contact me at CarlosCandamil@outlook.com or at [Linkedin](https://www.linkedin.com/in/carlos-candamil-14375624/). 
 
 ## Projects  
 
