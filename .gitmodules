@@ -13,3 +13,6 @@
 [submodule "projects/Curriculum"]
 	path = projects/Curriculum
 	url = https://github.com/CarlosCandamil/Curriculum
+[submodule "projects/Capstone_Project_Salifort_Motors"]
+	path = projects/Capstone_Project_Salifort_Motors
+	url = https://github.com/CarlosCandamil/Capstone_Project_Salifort_Motors.git
